@@ -1,0 +1,10 @@
+C:\Users\BIKTOP\OneDrive\Vira\TaskForCopyFiles\TaskForCopyFiles\bin\Debug\netstandard2.0\TaskForCopyFiles.deps.json
+C:\Users\BIKTOP\OneDrive\Vira\TaskForCopyFiles\TaskForCopyFiles\bin\Debug\netstandard2.0\TaskForCopyFiles.dll
+C:\Users\BIKTOP\OneDrive\Vira\TaskForCopyFiles\TaskForCopyFiles\bin\Debug\netstandard2.0\TaskForCopyFiles.pdb
+C:\Users\BIKTOP\OneDrive\Vira\TaskForCopyFiles\TaskForCopyFiles\obj\Debug\netstandard2.0\TaskForCopyFiles.csproj.AssemblyReference.cache
+C:\Users\BIKTOP\OneDrive\Vira\TaskForCopyFiles\TaskForCopyFiles\obj\Debug\netstandard2.0\TaskForCopyFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BIKTOP\OneDrive\Vira\TaskForCopyFiles\TaskForCopyFiles\obj\Debug\netstandard2.0\TaskForCopyFiles.AssemblyInfoInputs.cache
+C:\Users\BIKTOP\OneDrive\Vira\TaskForCopyFiles\TaskForCopyFiles\obj\Debug\netstandard2.0\TaskForCopyFiles.AssemblyInfo.cs
+C:\Users\BIKTOP\OneDrive\Vira\TaskForCopyFiles\TaskForCopyFiles\obj\Debug\netstandard2.0\TaskForCopyFiles.csproj.CoreCompileInputs.cache
+C:\Users\BIKTOP\OneDrive\Vira\TaskForCopyFiles\TaskForCopyFiles\obj\Debug\netstandard2.0\TaskForCopyFiles.dll
+C:\Users\BIKTOP\OneDrive\Vira\TaskForCopyFiles\TaskForCopyFiles\obj\Debug\netstandard2.0\TaskForCopyFiles.pdb
